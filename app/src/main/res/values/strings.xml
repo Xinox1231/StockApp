@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jetpack</string>
+    <string name="timeframe_5_min">5M</string>
+    <string name="timeframe_15_min">15M</string>
+    <string name="timeframe_30_min">30M</string>
+    <string name="timeframe_1_hour">1H</string>
+</resources>
